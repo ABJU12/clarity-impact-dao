@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/dao-token.clar"
 depends_on = []
 
+[contracts.treasury]
+path = "contracts/treasury.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
